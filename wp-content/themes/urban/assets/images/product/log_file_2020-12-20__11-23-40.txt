@@ -1,0 +1,1239 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = http://localhost/urban
+Data file = C:\xampp\htdocs\urban/wp-content/themes/ireca/demo_import/demo-content.xml
+Widget file = C:\xampp\htdocs\urban/wp-content/themes/ireca/demo_import/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "logo_green" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "customer_2" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "customer_2" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "logo_bike1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "team2" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "atv-moto1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "slide1_bg_new" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+[ERROR] Failed to import "slide1 car" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+
+
+------
+New AJAX call!
+[WARNING] Failed to import auto_park Another Autoparks
+[WARNING] Failed to import manufacturer Audi
+[WARNING] Failed to import gearbox Automatic
+[WARNING] Failed to import manufacturer BMW
+[WARNING] Failed to import type Car
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import manufacturer Honda
+[WARNING] Failed to import steering Left
+[WARNING] Failed to import manufacturer Lexus
+[WARNING] Failed to import gearbox Mechanic
+[WARNING] Failed to import product_tag mercedes benz 2018
+[WARNING] Failed to import type Motors
+[WARNING] Failed to import auto_park My Cars
+[WARNING] Failed to import manufacturer Other
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type ovacrs_car_rental
+[WARNING] Failed to import manufacturer Palmer Johnson
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_cat Rental
+[WARNING] Failed to import steering Right
+[WARNING] Failed to import type Sedan
+[WARNING] Failed to import product_cat Sell
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import type sport bike
+[WARNING] Failed to import type SUV
+[WARNING] Failed to import type Terrain Bike
+[WARNING] Failed to import gearbox Tiptronic
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Waterway
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import product_cat Yacht
+[WARNING] Failed to import manufacturer Yamaha
+[WARNING] Failed to import type ATV Bike
+[WARNING] Failed to import product_cat Bluetooth
+[WARNING] Failed to import product_cat Boat
+[WARNING] Failed to import product_cat Boat Shop
+[WARNING] Failed to import product_cat Canoe
+[WARNING] Failed to import product_cat Car
+[WARNING] Failed to import product_cat Energiser
+[WARNING] Failed to import product_cat Lexus
+[WARNING] Failed to import product_cat motor biker
+[WARNING] Failed to import product_cat Motors
+[WARNING] Failed to import product_cat Porsche
+[WARNING] Failed to import product_cat Sailboat
+[WARNING] Failed to import product_cat Seat cover
+[WARNING] Failed to import product_cat Audi
+[WARNING] Failed to import product_cat BMW
+

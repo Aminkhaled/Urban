@@ -1,0 +1,500 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = http://localhost/urban
+Data file = C:\xampp\htdocs\urban/wp-content/themes/ireca/demo_import/demo-content.xml
+Widget file = C:\xampp\htdocs\urban/wp-content/themes/ireca/demo_import/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Header 1 Top Left : 
+
+Custom HTML - No Title - Imported
+
+Header 1 Top Center : 
+
+Custom HTML - No Title - Imported
+
+Header 1 Top Right : 
+
+Custom HTML - No Title - Imported
+
+Header 1 Beside Logo : 
+
+Custom HTML - No Title - Imported
+
+Header 1 Cart : 
+
+Custom HTML - No Title - Imported
+
+Header 1 home icon : 
+
+Custom HTML - No Title - Imported
+
+Header 1 Search : 
+
+Custom HTML - No Title - Imported
+
+Header 2 Left Logo : 
+
+Custom HTML - No Title - Imported
+
+Header 2 Right Logo : 
+
+Custom HTML - No Title - Imported
+
+Header 3 Info : 
+
+Custom HTML - No Title - Imported
+
+Header 3 Cart : 
+
+Custom HTML - No Title - Imported
+
+Header 3 Search : 
+
+Custom HTML - No Title - Imported
+
+Header 4 Phone : 
+
+Custom HTML - No Title - Imported
+
+Header 4 Social : 
+
+Custom HTML - No Title - Imported
+
+Header 4 cart : 
+
+Custom HTML - No Title - Imported
+
+Header Default Top Left : 
+
+Custom HTML - No Title - Imported
+
+Header Default Top Right : 
+
+Custom HTML - No Title - Imported
+
+Header Default Cart : 
+
+Custom HTML - No Title - Imported
+
+Woocommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Custom HTML - No Title - Imported
+
+Rental Sidebar : 
+
+Custom HTML - Helping Center {{icon_lifesaver}} - Imported
+Custom HTML - Categories{{ icon_drawer_alt }} - Imported
+Recent Posts With Thumbnails - Rental Tips{{icon_documents_alt}} - Imported
+
+FAQ Sidebar : 
+
+Custom HTML - Can&#039;t find Answer ? - Imported
+Custom HTML - Helping Center - Imported
+Custom HTML - Category - Imported
+
+Footer Info : 
+
+Custom HTML - No Title - Imported
+
+Footer Column 1 : 
+
+Custom HTML - Get in Contact - Imported
+
+Footer Column 2 : 
+
+Recent Posts With Thumbnails - Latest Blog - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Usefull Links - Imported
+
+Footer Column 4 : 
+
+Custom HTML - Working Hours - Imported
+
+Footer Social : 
+
+Custom HTML - No Title - Imported
+
+Main Sidebar : 
+
+Ireca Search - Search - Imported
+Categories - Categories {{ icon_drawer_alt }} - Imported
+Recent Posts With Thumbnails - Recent Tips {{icon_documents_alt}} - Imported
+Tag Cloud - Tags {{icon_tags_alt}} - Imported
+
+Footer copyright : 
+
+Custom HTML - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+

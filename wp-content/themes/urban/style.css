@@ -1,0 +1,13 @@
+/*
+Theme Name: Urban
+Theme URI: #
+Author: Amen Khaled
+Author URI: #
+Description: A Ecommerce Theme for wordpress
+Version:1.0.0
+Tags: Cars,Acccesories
+Text Domain: urban
+*/
+.product-details-area .col-lg-6 ,.product-details-area .col-md-6{
+    overflow: hidden;
+}

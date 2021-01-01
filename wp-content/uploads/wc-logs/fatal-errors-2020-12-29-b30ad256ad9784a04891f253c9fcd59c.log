@@ -1,0 +1,24 @@
+2020-12-29T09:58:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\urban\wp-includes\class-wp-query.php on line 0
+
+2020-12-29T10:06:26+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\urban\wp-content\themes\urban\front-page.php:148
+Stack trace:
+#0 C:\xampp\htdocs\urban\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\urban\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\urban\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\urban\wp-content\themes\urban\front-page.php on line 148
+
+2020-12-29T10:06:43+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\urban\wp-content\themes\urban\front-page.php:148
+Stack trace:
+#0 C:\xampp\htdocs\urban\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\urban\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\urban\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\urban\wp-content\themes\urban\front-page.php on line 148
+
+2020-12-29T10:09:26+00:00 CRITICAL syntax error, unexpected '?>', expecting identifier (T_STRING) in C:\xampp\htdocs\urban\wp-content\themes\urban\front-page.php on line 123
+
+2020-12-29T10:29:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\urban\wp-includes\class-wp-query.php on line 0
+
+2020-12-29T10:33:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\urban\wp-includes\class-wp-query.php on line 0
+
